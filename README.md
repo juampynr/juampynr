@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Juampy
+
+[![Github](https://img.shields.io/github/followers/juampynr?label=Follow&style=social)](https://github.com/juampynr)
+
+- 🔭 I’m a Senior Developer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News. 
+- 🌱 I’m currently learning a ton of Golang and Kubernetes.
+- 📫 How to reach me:
+  - https://twitter.com/juampynr
+  - https://www.linkedin.com/in/juampynr
+
+<a href="https://github.com/juampynr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juampynr&show_icons=true&theme=merko&count_private=true" alt="Juampy's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampynr&theme=merko&layout=compact" alt="Juampy's github top languages" />
+</a>
+<br/>
 
 <!--
 **juampynr/juampynr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
