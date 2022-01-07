@@ -2,7 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/juampynr?label=Follow&style=social)](https://github.com/juampynr)
 
-- 🔭 I’m a Senior Developer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News. 
+- 🔭 I’m a Senior Developer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News.
+- 💻 I have done a lot of work with CMSs using Drupal.
 - 🌱 I’m currently learning a ton of Golang and Kubernetes.
 - 📫 How to reach me:
   - https://twitter.com/juampynr
