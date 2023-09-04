@@ -4,7 +4,7 @@
 
 - 🔭 I’m Lead Engineer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News.
 - 💻 I have done a lot of work with CMSs using Drupal.
-- 🌱 I’m currently learning a ton of Golang and Kubernetes.
+- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS.
 - 📫 Find me here:
   - https://twitter.com/juampynr
   - https://www.linkedin.com/in/juampynr
