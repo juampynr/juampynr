@@ -3,11 +3,9 @@
 [![Github](https://img.shields.io/github/followers/juampynr?label=Follow&style=social)](https://github.com/juampynr)
 
 - 🔭 I’m Lead Engineer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News.
-- 💻 I have done a lot of work with CMSs using Drupal.
-- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS.
-- 📫 Find me here:
-  - https://twitter.com/juampynr
-  - https://www.linkedin.com/in/juampynr
+- 💻 I have done a ton of CMS engineering using Drupal. I was also active in the Drupal community.
+- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS at NBC News.
+- 📫 Find me at https://www.linkedin.com/in/juampynr.
 
 <a href="https://github.com/juampynr">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juampynr&&show_icons=true&theme=dark" alt="Juampy's github stats" />
