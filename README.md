@@ -2,9 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/juampynr?label=Follow&style=social)](https://github.com/juampynr)
 
-- 🔭 I’m Lead Engineer at [Lullabot](https://www.lullabot.com/about/juampy-nr); currently working at NBC News.
+- 🔭 I’m Senior Software Engineer at [NBC News](https://www.nbcnews.com/).
 - 💻 I have done a ton of CMS engineering using Drupal. I was also active in the Drupal community.
-- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS at NBC News.
+- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS.
 - 📫 Find me at https://www.linkedin.com/in/juampynr.
 
 <a href="https://github.com/juampynr">
