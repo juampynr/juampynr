@@ -7,12 +7,6 @@
 - 🌱 I’m currently learning a ton of Golang, Node.js, and AWS.
 - 📫 Find me at https://www.linkedin.com/in/juampynr.
 
-<a href="https://github.com/juampynr">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juampynr&&show_icons=true&theme=dark" alt="Juampy's github stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juampynr&theme=merko&layout=compact" alt="Juampy's github top languages" />
-</a>
-<br/>
-
 <!--
 **juampynr/juampynr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
