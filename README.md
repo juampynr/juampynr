@@ -4,7 +4,9 @@
 
 - 🔭 I’m Senior Software Engineer at [NBC News](https://www.nbcnews.com/).
 - 💻 I have done a ton of CMS engineering using Drupal. I was also active in the Drupal community.
-- 🌱 I’m currently learning a ton of Golang, Node.js, and AWS.
+- 🔧 I do a lot of Golang, Node.js, and AWS (EKS and Serverless).
+- AWS Certified Solutions Architect - Professional.
+- Kubernetes Security Specialist.
 - 📫 Find me at https://www.linkedin.com/in/juampynr.
 
 <!--
